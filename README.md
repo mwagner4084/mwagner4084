@@ -1,6 +1,6 @@
 ### Welcome :sunny:
 
-:leaves: Python | Javascript | C | Nextjs | Django \
+:leaves: Python | Javascript | C | Next.js | React | Django \
 :herb: Digital Organizer | Listen to Us\
 :seedling: Co-Chairperson | Kalamazoo Nonviolent Opponents of War\
 :blossom: **Pronouns:** She/Her/Hers\
